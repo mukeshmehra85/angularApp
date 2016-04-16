@@ -1,0 +1,21 @@
+1. Downlaod and install nodejs from https://nodejs.org/en/download/
+
+2. I have created a directory "yeoman" in d:/angular folder.
+
+3. Add C:\Program Files\nodejs in windows executable path.
+
+4. Open Command Prompt and run npm --version to check if nodejs is working fine.
+
+5. Install grunt by running npm install -g grunt, npm install -g grunt-cli. Note -g will install modules to be available globally.
+
+6. Install bower by running npm install -g bower.
+
+7. Install yeoman tool by running "npm install -g yo"
+
+8. Install generator for angularjs "npm install --global generator-angular"
+
+9. Install compass to use with sass : "npm install -g compass".
+
+10. Download and install ruby from http://rubyinstaller.org/downloads/ and add path C:\Ruby23\bin to system path.
+
+11. Run "gem install compass" once ruby is installed.
